@@ -1,0 +1,12 @@
+h2 {
+  color: blue;
+}
+
+p {
+  font-size: 10px;
+}
+
+/* font size em = 5 times the containing element rem = size in relation to the root element */
+span {
+  font-size: 2rem;
+}
